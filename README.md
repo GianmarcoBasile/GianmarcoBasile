@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 <h2>Languages and Tools</h2>
  <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+ <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
+          
           
