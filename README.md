@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>📌 Gianmarco Basile</h3>
+<h1>📌 Gianmarco Basile</h1>
 🖥️ FullStack Developer
 🌱 Computer Science Student
 
