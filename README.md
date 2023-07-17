@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <p>🌱 Computer Science Student</p>
 
 <h2>Languages and Tools</h2>
- <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
+ <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+          
