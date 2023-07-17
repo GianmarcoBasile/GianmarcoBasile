@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p>🖥️ FullStack Developer</p>
 <p>🌱 Computer Science Student</p>
 
-<h2>Languages and Tools</h2>
+<h2>🧑🏻‍💻 Languages and Tools</h2>
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
