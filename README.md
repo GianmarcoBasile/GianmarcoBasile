@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>📌 Gianmarco Basile</h2>
-🖥️ FullStack Developer
-🌱 Computer Science Student
+<p>🖥️ FullStack Developer</p>
+<p>🌱 Computer Science Student</p>
 
-<h3>Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 
