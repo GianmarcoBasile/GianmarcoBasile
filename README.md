@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>📌 Gianmarco Basile</h2>
 <p>🖥️ Backend Developer</p>
-<p>🌱 Computer Science Student</p>
+<p>🌱 Computer Science LM-18 Student</p>
 
 <h2>🧑🏻‍💻 Languages and Tools</h2>
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
