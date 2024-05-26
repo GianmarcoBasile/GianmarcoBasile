@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>📌 Gianmarco Basile</h2>
-<p>🖥️ Backend Developer</p>
+<p>🖥️ Full Stack Developer</p>
 <p>🌱 Computer Science LM-18 Network and Security Student</p>
 
 <h2>🧑🏻‍💻 Languages and Tools</h2>
