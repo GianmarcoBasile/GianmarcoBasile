@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>📌 Gianmarco Basile</h2>
 <p>🖥️ Full Stack Developer</p>
-<p>🌱 Computer Science LM-18 Network and Security Student</p>
+<p>🌱 Computer Science LM-18 Network and Security Graduated</p>
 
 <h2>🧑🏻‍💻 Languages and Tools</h2>
 <img align="left" alt="GITHUB" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/github.svg"/>
